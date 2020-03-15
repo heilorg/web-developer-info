@@ -10,6 +10,9 @@
 * [다양한 프로그래밍 언어 책들](https://books.goalkicker.com/)
 * [git을 사용할 때 알아야 할 4가지](https://medium.com/오늘의-프로그래밍/git을-사용할-때-알아야-할-4-가지-f8a64f5fa558)
 * [초보 개발자를 위한 IT영단어 정리](https://brunch.co.kr/@hopeless/8)
+* [신입 개발자의 개발력을 높이는 방법](https://brunch.co.kr/@seungdols/18)
+* [개발자 이력서 작성 및 면접 참고사항](http://www.junholee.me/개발자-이력서-작성-및-면접-참고사항/)
+* [웹 개발자 포트폴리오를 위한 10가지 팁](https://velog.io/@chris/10-web-developer-portfolio-tips)
 
 
 ### SERVER
